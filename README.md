@@ -1,8 +1,8 @@
 # UAP-Ledger
 *A plug-and-play open-science platform for tamper-proof UFO / UAP research*
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-blue?logo=github)](https://github.com/YOUR-USER/uap-ledger/generate)
-[![Run on Replit](https://repl.it/badge/github/YOUR-USER/uap-ledger)](https://replit.com/github/YOUR-USER/uap-ledger)
+[![Use this template](https://img.shields.io/badge/Use_this_template-blue?logo=github)](https://github.com/spwotton/uap-ledger/generate)
+[![Run on Replit](https://repl.it/badge/github/spwotton/uap-ledger)](https://replit.com/github/YOUR-USER/uap-ledger)
 ![CI](https://github.com/YOUR-USER/uap-ledger/actions/workflows/zk-proof-check.yml/badge.svg)
 
 ---
